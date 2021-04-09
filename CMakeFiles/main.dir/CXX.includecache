@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Programs/CG/msu_cmc_cg_2021/template1_cpp/Field.h
+Image.h
+/mnt/c/Programs/CG/msu_cmc_cg_2021/template1_cpp/Image.h
+string
+-
+vector
+-
+memory
+-
+
+/mnt/c/Programs/CG/msu_cmc_cg_2021/template1_cpp/Image.h
+string
+-
+
+/mnt/c/Programs/CG/msu_cmc_cg_2021/template1_cpp/Player.cpp
+Player.h
+/mnt/c/Programs/CG/msu_cmc_cg_2021/template1_cpp/Player.h
+Field.h
+/mnt/c/Programs/CG/msu_cmc_cg_2021/template1_cpp/Field.h
+GLFW/glfw3.h
+-
+sstream
+-
+
+/mnt/c/Programs/CG/msu_cmc_cg_2021/template1_cpp/Player.h
+Image.h
+/mnt/c/Programs/CG/msu_cmc_cg_2021/template1_cpp/Image.h
+Field.h
+/mnt/c/Programs/CG/msu_cmc_cg_2021/template1_cpp/Field.h
+memory
+-
+vector
+-
+
